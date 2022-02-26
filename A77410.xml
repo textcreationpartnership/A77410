@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe: cleere, and methodicall view of the severall particulars contained in the late instructions which passed both Houses, the 28th day of May, 1647. for determining the accompts of the souldiery. Wherein every person that claimes arreares, is directed what course to take, to make good the same, according to the said instructions. Ordered to be printed and published. Will: Freman, Will: Potter.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77410</idno>
+            <idno type="STC">Wing B4555</idno>
+            <idno type="STC">Thomason E407_27</idno>
+            <idno type="STC">ESTC R204649</idno>
+            <idno type="EEBO-CITATION">99864113</idno>
+            <idno type="PROQUEST">99864113</idno>
+            <idno type="VID">160517</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160517)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe: cleere, and methodicall view of the severall particulars contained in the late instructions which passed both Houses, the 28th day of May, 1647. for determining the accompts of the souldiery. Wherein every person that claimes arreares, is directed what course to take, to make good the same, according to the said instructions. Ordered to be printed and published. Will: Freman, Will: Potter.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Accounting --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Pay, allowances, etc. --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160517:1" rendition="simple:additions"/>
+            <p>A BRIEFE: CLEERE, And Methodicall View of the ſeverall particulars contained in The Late INSTRUCTIONS WHICH Paſſed both Houſes, the 28<hi rend="sup">th</hi> day of <hi>May,</hi> 1647. for determining the <hi>Accompts</hi> of the SOULDIERY. WHEREIN Every perſon that claimes Arreares, is directed what courſe to take, to make good the ſame, according to the ſaid <hi>INSTRVCTIONS.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="license">
+               <body>
+                  <p>
+                     <hi>Ordered to be Printed and publiſhed. </hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>Will: Freman, </item>
+                           <item>Will: Potter.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160517:2"/>
+            <pb n="1" facs="tcp:160517:2"/>
+            <head>A BRIEFE CLEERE Methodicall View of the ſeverall par<g ref="char:EOLhyphen"/>ticulars contained IN The late INSTRUCTIONS which paſſed both Houſes the 28 of <hi>May,</hi> 1647. For determining the <hi>Accounts of the Souldiery.</hi>
+            </head>
+            <p>TOuching the Certificates, of ſuch as claime Arreares (which is the generall ſubject of the ſaid Inſtructions) there are 5. things conſiderable there<g ref="char:EOLhyphen"/>in. <hi>Viz.</hi>
+            </p>
+            <list>
+               <item>1 The matter of them.</item>
+               <item>2 The Evidence required to make them good.</item>
+               <item>3 The deductions to be made out of them for free-quarter.</item>
+               <item>4 The Allowance of pay to be made upon them.</item>
+               <item>5 The Places where they are to be tranſmitted or diſpatched.</item>
+            </list>
+            <pb n="2" facs="tcp:160517:3"/>
+            <p>For the Matter of them obſerve.</p>
+            <p n="1">1 That a Certificate for an Officer is to expreſſe how long he actually ſerved with a Regiament Troop or Company under his command, what number of perſons the ſame did conſiſt of, by what commiſſion, under whoſe command, and in what quality he ſer<g ref="char:EOLhyphen"/>ved, what he received in money, and what in horſe, armes, or other goods: To finde which in the former printed Ordinance, <hi>vide Sect.</hi> 1.</p>
+            <p n="2">2 For a private Souldier, It is to ſhew how many weeks he is in arreare, whether he left the Troope or Company without diſcharge, &amp; whether he received any Horſe, or Armes for the uſe of the State, &amp; what became thereof. <hi>vide Sect.</hi> 16.</p>
+            <p>
+               <hi>For the Evidence to make them good conſider,</hi>
+            </p>
+            <p n="1">1 That Governours are to have their Accompts determined upon their Oaths, as well for what they have disburſted for the uſe of the State, as for their Service. <hi>vide Sect.</hi> 6.</p>
+            <p n="2">2 The warrants of the Earle of <hi>Eſſex,</hi> Committee of Safety, Earle of <hi>Mancheſters</hi> &amp;c. If granted to Of<g ref="char:EOLhyphen"/>ficers are to paſſe, deducting only for free quarter, <hi>vide, Sect.</hi> 4</p>
+            <p n="3">3 Such (as for any ſumme) have given a diſcharge in full, are to receive no more for that Service. <hi>vide, Sect.</hi> 5.</p>
+            <p n="4">4 All other Accompts whether ſtated by Authori<g ref="char:EOLhyphen"/>ty, or not, to be regulated according to theſe Inſtructi<g ref="char:EOLhyphen"/>ons following. <hi>Sect.</hi> 17. <hi>viz.</hi>
+            </p>
+            <div type="part">
+               <head>Firſt for Officers.</head>
+               <p n="1">1 They are to give in an acknowledgement under their owne hands of what they have received, and that to the full, or elſe to forfite the double of what more ſhall bee made to appeare, any time within two yeares after. <hi>Sect.</hi> 7.</p>
+               <pb n="3" facs="tcp:160517:3"/>
+               <p n="2">2. Commiſſion Officers are not to be allowed pay for any horſe more then appeares upon muſter. <hi>Sect.</hi> 8.</p>
+               <p n="3">3. All Officers are to produce a Certificate for their ſervice according to muſter.</p>
+               <p n="1">1. Such as have ſerved under any Committee, un<g ref="char:EOLhyphen"/>der the hands of three of that Committee. <hi>Sect.</hi> 1. <hi>viz.</hi>
+               </p>
+               <p n="2">2. Such as belong to the grand Armies, according to their qualities, <hi>viz.</hi>
+               </p>
+               <p n="1">1. If Captaines or above that degree; They are to procure the hands and ſeales of the two ſuperiour Officers that are ſurviving of that Regiment. <hi>Sect</hi> 2.</p>
+               <p n="2">2. If under that degree and their Captaine living, they are to procure their Captaines hand and ſeale, with the ſaid two ſuperiour Officers. <hi>Sect.</hi> 2.</p>
+            </div>
+            <div type="part">
+               <head>Secondly, for private Souldiers.</head>
+               <p n="1">1. They are to bring in a Certificate under the hands and ſeales of his Officer. <hi>Sect.</hi> 16.<note place="margin">Query; What officer, or whe<g ref="char:EOLhyphen"/>the more <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> not here meant.</note>
+               </p>
+               <p n="2">2. To make it appeare that hee did not leave the Troope or company without lawfull diſcharge. <hi>Sect.</hi> 16.</p>
+               <p n="3">3. Whether hee received any horſe or Armes for the uſe of the State: And what became thereof. <hi>Sect.</hi> 16.</p>
+            </div>
+            <div type="part">
+               <head>Thirdly, the perſons that ſhall certifie in the behalfe of others are.</head>
+               <p n="1">1. To make it appeare to the Committee imployed herein, that they have not been caſhiered. <hi>Sect.</hi> 3.</p>
+               <p n="2">2. To ſend in their hands, ſcales and qualities to the ſaid Committee. <hi>Sect.</hi> 3.</p>
+               <p n="3">3. To certifie with ſuch caution, as they may take their oaths of the truth thereof, if required. <hi>Sect.</hi> 1.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:160517:4"/>
+               <head>The third generall head is concerning the deduction of Free-Quarter; wherein conſider,</head>
+               <p n="1">1. That ſuch Commiſſion Officers, as make it ap<g ref="char:EOLhyphen"/>peare they have diſcharged their Quarters are to have nothing deducted. <hi>Sect.</hi> 15.</p>
+               <p n="2">2. Such Officers who have ſerved in any Garriſon for which there hath beene any particular eſtabliſh<g ref="char:EOLhyphen"/>ment made, to have nothing deducted for Free-Quar<g ref="char:EOLhyphen"/>ter, but are to produce a Certificate under the hand and ſeale of the ſupreme Civill Officer of the Towne, that he hath paid his Quarters. <hi>Sect.</hi> 19.</p>
+               <p n="3">3. For all others according to the particulars fol<g ref="char:EOLhyphen"/>lowing, <hi>Sect.</hi> 10. to 15. <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>To abate for Free-Quarter from all.</hi>
+                  <list>
+                     <item>
+                        <hi>Officers of Horſe. one third part of their pay.</hi>
+                     </item>
+                     <item>
+                        <hi>Officers of Dragoones. one third part of their pay.</hi>
+                     </item>
+                     <item>
+                        <hi>Officers of Foot in Com<g ref="char:EOLhyphen"/>mon one fourth part of their pay.</hi>
+                     </item>
+                     <item>
+                        <hi>Officers of Traine one fourth part of their pay.</hi>
+                     </item>
+                     <item>
+                        <hi>Serjeants of Foot.</hi> 4. s. per <hi>week.</hi>
+                     </item>
+                     <item>
+                        <hi>Corparalls or Drums.</hi> 3. s. per <hi>week.</hi>
+                     </item>
+                     <item>
+                        <hi>private Horſe</hi> 8. s. per <hi>week.</hi>
+                     </item>
+                     <item>
+                        <hi>Souldiers Foot</hi> 3. s. per <hi>week.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>The fourth Generall Head is touching the allowance of their pay, wherein conſider,</head>
+               <p n="1">1. Such as have ſerved in any Garriſon, for which there hath been particular eſtabliſhments made, are to be paid according to the allowance of that eſtabliſh<g ref="char:EOLhyphen"/>ment, <hi>Sect.</hi> 19.</p>
+               <pb n="5" facs="tcp:160517:4"/>
+               <p n="2">2. All others (except the perſons following) to be paid according to the eſtabliſhment of the Earle of <hi>Eſſex</hi> his Army, <hi>Sect.</hi> 20. And no part thereof to bee reſpited. <hi>Sect.</hi> 9.</p>
+               <p n="3">3. Colonell <hi>Saunderſons</hi> Reformadoes, to abate one third part of their pay for Free-quarter, the reſt to bee allowed according to the agreement made with them. <hi>Sect.</hi> 18.</p>
+               <p n="4">4. The perſons following to have only one third part of a Conformadoes pay of the ſame quality, <hi>viz.</hi> ſuch as have had a Regiment Troope, or Company under their command, which did not exceed the num<g ref="char:EOLhyphen"/>ber hereafter expreſt. <hi>Sect.</hi> 18.</p>
+               <p>In a
+<list>
+                     <item>
+                        <hi>Regiment or Troope. of Horſe</hi> 150. <hi>All Of<g ref="char:EOLhyphen"/>ficers included.</hi>
+                     </item>
+                     <item>
+                        <hi>Regiment or Troope. of Foot</hi> 300. <hi>All Of<g ref="char:EOLhyphen"/>ficers included.</hi>
+                     </item>
+                     <item>
+                        <hi>Regiment or Troope. of Horſe</hi> 25. <hi>All Of<g ref="char:EOLhyphen"/>ficers included.</hi>
+                     </item>
+                     <item>
+                        <hi>Regiment or Troope. of Dragoones</hi> 25. <hi>All Of<g ref="char:EOLhyphen"/>ficers included.</hi>
+                     </item>
+                     <item>
+                        <hi>Company of Foot</hi> 40. <hi>All Of<g ref="char:EOLhyphen"/>ficers included.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>The fifth Generall Head is touching the places where the ſaid Certificates are to be tranſmitted or diſpatched.</head>
+               <p n="1">1. The Certificates of Officers that ſerved in any Garriſon or County are to be ſent to the Sub-Com<g ref="char:EOLhyphen"/>mittee of that County (appointed by the Committee for the Accounts of the Kingdome.) And from them to the Committee appointed for this fervice: and by them being diſpatched to the ſaid Sub-Committee a gaine, and ſo to the officers or perſons therein con<g ref="char:EOLhyphen"/>cerned. <hi>Sect.</hi> 1.</p>
+               <pb n="6" facs="tcp:160517:5"/>
+               <p n="2">2. Private Souldiers to have their buſineſſe diſ<g ref="char:EOLhyphen"/>patched (and to receive ſatisfaction from the Com<g ref="char:EOLhyphen"/>mittees of Counties or Armies where they ſerved. <hi>Sect.</hi> 16.</p>
+               <p>This done, what remaines in arreare ſhall bee accounted as a juſt debt from the State. <hi>Sect.</hi> 21.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>William Freman.</hi>
+                        </item>
+                        <item>
+                           <hi>William Potter.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
